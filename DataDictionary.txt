@@ -1,0 +1,41 @@
+Heart Disease Dataset Attribute Description
+
+
+1. age (Age) in years data type:Numeric
+2. sex (Sex) 1, 0 data type:Binary
+3. chest pain type (chest pain type) 1,2,3,4 data type:Nominal
+4. resting blood pressure (resting bp s) in mm Hg data type:Numeric
+5. serum cholesterol (cholesterol) in mg/dl data type:Numeric
+6. fasting blood sugar (fasting blood sugar) 1,0 > 120 mg/dl data type:Binary
+7. resting electrocardiogram results (resting ecg) 0,1,2 data type:Nominal
+8. maximum heart rate achieved (max heart rate) 71–202 data type:Numeric
+9. exercise induced angina (exercise angina) 0,1 data type:Binary
+10. oldpeak =ST (oldpeak) depression data type:Numeric
+11. the slope of the peak exercise ST segment (ST slope) 0,1,2 data type:Nominal
+12. class (target) 0,1 data type:Binary
+
+Description of Nominal Attributes
+Attribute Description
+
+Sex 
+1 = male, 0= female;
+Chest Pain Type -- Value 1: typical angina
+                          -- Value 2: atypical angina
+                          -- Value 3: non-anginal pain
+                          -- Value 4: asymptomatic
+Fasting Blood sugar
+(fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+Resting electrocardiogram results
+                         -- Value 0: normal
+                         -- Value 1: having ST-T wave abnormality (T wave inversions 
+                                          and/or ST elevation or depression of > 0.05 mV)
+                         -- Value 2: showing probable or definite left ventricular 
+                                          hypertrophy by Estes' criteria
+Exercise induced angina
+1 = yes; 0 = no
+the slope of the peak exercise ST segment
+                        -- Value 1: upsloping
+                        -- Value 2: flat
+                        -- Value 3: downsloping
+class 
+1 = heart disease, 0 = Normal
