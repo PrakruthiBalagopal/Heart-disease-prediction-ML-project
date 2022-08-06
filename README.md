@@ -15,17 +15,17 @@ The heart disease dataset is curated by combining 5 popular heart disease datase
 Data pre-processing
 pandas
 numpy
-EDA and data visualization
+# EDA and data visualization
 seaborn
 matplotlib
 pandas
 numpy
-SVM and Random Forest model generation and accuracy measures
+# SVM and Random Forest model generation and accuracy measures
 scikit-learn
 numpy
 pandas
 yellowbrick
-Artificial Neural network
+# Artificial Neural network
 Keras
 scikit-learn
 pandas
