@@ -1,0 +1,25 @@
+# Support vector machine requirements
+
+pandas==1.2.4
+scikit-learn==1.1.1
+numpy==1.20.1
+#plotting and visualisation
+matplotlib==3.3.4
+seaborn==0.11.1
+yellowbrick==1.4
+
+# Random Forest classisfier requirements
+
+pandas==1.2.4
+numpy==1.20.1
+scikit-learn==1.1.1
+#plotting and visualisation
+matplotlib==3.3.4
+seaborn==0.11.1
+yellowbrick==1.4
+
+# Artificial neural network requirements
+
+pandas==1.2.4
+keras==2.9.0
+scikit-learn==1.1.1
